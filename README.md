@@ -1,3 +1,4 @@
+[Day1Ass.txt](https://github.com/Arif-2000/SQL-Day1-Assignment1/files/9423588/Day1Ass.txt)
 # SQL-Day1-Assignment1
 
 create table Clients
